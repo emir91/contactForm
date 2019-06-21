@@ -25,11 +25,19 @@ ul{
 
 .brand{
     text-align: center;
+    line-height: 1
 }
 
-.brand span{
+
+
+.brand  .main{
     font-family: 'Aguafina Script', cursive;
     display: block;
     font-size: 60px
+}
+
+.brand .sub{
+    text-transform: lowercase;
+    font-size: 24px;
 }
 
