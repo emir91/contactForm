@@ -50,5 +50,10 @@ ul{
 }
 
 .company-info {
-    background-color: 
+    background-color: #fabad1;
+}
+
+.company-info h3, .company-info ul{
+    text-align: center;
+    margin: 0 0 1em 0
 }
