@@ -41,3 +41,14 @@ ul{
     font-size: 24px;
 }
 
+.wrapper{
+    box-shadow: 0 0 20px 0 rgba(173, 125, 155, 0.7)
+}
+
+.wrapper > *{
+    padding: 1em;
+}
+
+.company-info {
+    background-color: 
+}
