@@ -57,3 +57,15 @@ ul{
     text-align: center;
     margin: 0 0 1em 0
 }
+
+.contact{
+    background-color: #ebc5d0;
+}
+
+/*FORM STYLES*/
+
+.contact form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
