@@ -69,3 +69,8 @@ ul{
     grid-template-columns: 1fr 1fr;
     grid-gap: 20px;
 }
+
+.contact form label{
+    display: block;
+}
+
