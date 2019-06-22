@@ -92,3 +92,7 @@ ul{
     border: 0; 
     text-transform: uppercase;
 }
+
+.contact form button:hover, .contact form button:focus{
+    background: #ff45c1;
+} 
