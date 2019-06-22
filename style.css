@@ -77,3 +77,7 @@ ul{
 .contact form p{
     margin: 0;
 }
+
+.contact form .full{
+    grid-column: 1 / 3;
+}
